@@ -38,7 +38,8 @@ I have completed postgraduate studies in Machine Learning and have hands-on expe
 
 Databases have always been a big part of my work, and I’m comfortable designing and working with data-intensive systems.
 
-
+### 🔗 Where to find me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Grzegorz%20K-blue?logo=linkedin)](https://www.linkedin.com/in/grzegorz-czarny-930309/)
 
 <!--
 **gczarny/gczarny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
