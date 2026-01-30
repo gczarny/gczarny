@@ -22,6 +22,9 @@ For the last 3+ years, I have been working mainly with Python, building:
 
 While Python remains my primary backend technology, I’ve been expanding into full-stack development, working with **Svelte** to build my own applications and gain end-to-end experience.
 
+Most of the public repositories here come from my early learning phase, when I was exploring Java and object-oriented programming.  
+Currently, most of my day-to-day work and contributions happen in private repositories as part of commercial projects.
+
 ---
 
 ### 🤖 AI & LLM
